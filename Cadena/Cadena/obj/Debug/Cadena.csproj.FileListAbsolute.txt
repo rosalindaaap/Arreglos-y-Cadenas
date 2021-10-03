@@ -1,0 +1,7 @@
+C:\Users\RAFAEL\source\repos\Cadena\Cadena\bin\Debug\Cadena.exe.config
+C:\Users\RAFAEL\source\repos\Cadena\Cadena\bin\Debug\Cadena.exe
+C:\Users\RAFAEL\source\repos\Cadena\Cadena\bin\Debug\Cadena.pdb
+C:\Users\RAFAEL\source\repos\Cadena\Cadena\obj\Debug\Cadena.csprojAssemblyReference.cache
+C:\Users\RAFAEL\source\repos\Cadena\Cadena\obj\Debug\Cadena.csproj.CoreCompileInputs.cache
+C:\Users\RAFAEL\source\repos\Cadena\Cadena\obj\Debug\Cadena.exe
+C:\Users\RAFAEL\source\repos\Cadena\Cadena\obj\Debug\Cadena.pdb
